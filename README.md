@@ -20,6 +20,8 @@
 
 ・Serre, Local Fields
 
+川口周の代数学演習問題、pete l clarkのSpec of poly ring over PID
+
 入学書類作り
 
 pdfの付箋づくり、データに書き込み？？
