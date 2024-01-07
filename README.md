@@ -1,6 +1,8 @@
 # Nuko333.github.io
 
 ○院試対策
+過去問の状況：https://nuko333.github.io/university/exam.html
+勉強メモ：https://nuko333.github.io/university/Study_Memo.html
 
 まなかページで時期とやることを決定
 
