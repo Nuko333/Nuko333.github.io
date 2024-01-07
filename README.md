@@ -10,15 +10,17 @@
  
 　代数的位相幾何
 
-・Hartshorne, Algebraic Geometry
+・Hartshorne, Algebraic Geometry
 
-・Silverman, The Arithmetic of Elliptic Curves
+・Silverman, The Arithmetic of Elliptic Curves
 
-・Serre, Local Fields
+・Serre, Local Fields
 
 入学書類作り
 
 pdfの付箋づくり、データに書き込み？？
+
+--------------------------------------
 
 ○CSS
 
