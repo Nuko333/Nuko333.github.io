@@ -30,6 +30,10 @@ pdfの付箋づくり、データに書き込み？？
 
 ○倍数、三角比の有理数判定
 
+http://falmath.starfree.jp/blogs/sankakuhiyuurisu.html
+
+https://math.stackexchange.com/questions/87756/when-is-sinx-rational
+
 ----------------------------------------
 ○CSS
 
