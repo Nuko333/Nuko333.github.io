@@ -2,6 +2,8 @@
 
 ○院試対策
 
+勉強の計画：https://nuko333.github.io/plan/Menu.html
+
 過去問の状況：https://nuko333.github.io/university/exam.html
 
 勉強メモ：https://nuko333.github.io/university/Study_Memo.html
