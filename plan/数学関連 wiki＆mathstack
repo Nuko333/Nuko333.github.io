@@ -4,6 +4,20 @@ https://math.stackexchange.com/questions/485512/subgroups-of-a-direct-product
 
 --------------------------------------------------------------------------------------
 ☆wiki＆その他ページ
+◯代数
+半直積
+https://ja.m.wikipedia.org/wiki/半直積
+subdirect product 、goursat lemma
+https://en.m.wikipedia.org/wiki/Goursat%27s_lemma
+https://math.stackexchange.com/questions/5153/what-are-the-subgroups-of-a-semidirect-product
+完全体
+https://ja.m.wikipedia.org/wiki/完全体
+数
+https://ocw.u-tokyo.ac.jp/lecture_files/gf_15/3/notes/ja/03saito.pdf#page40
+
+◯lean、coq
+https://www.quora.com/Could-Shinichi-Mochizuki-have-reasonably-used-a-proof-assistant-like-Coq-to-formalize-his-claimed-proof-of-the-ABC-Conjecture
+
 ○群、環の圏
 https://ja.wikipedia.org/wiki/%E7%BE%A4%E3%81%AE%E5%9C%8F
 https://ja.wikipedia.org/wiki/%E7%92%B0%E3%81%AE%E5%9C%8F
